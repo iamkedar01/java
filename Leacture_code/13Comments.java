@@ -7,7 +7,8 @@ class comments{
 
         /*
          this is a multiple comments used in the more explination about the code
-         */
+          Multiple codeis written in this format like : /* Inside this whatever that we write that will not execute */ 
+       
 
-    }
+    } 
 }
