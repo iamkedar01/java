@@ -5,8 +5,8 @@ class WhileLoop {
         System.out.print("Enter a number: ");
         int Num = input.nextInt();
 
-        while (Num <=10){
-            System.out.print(","+Num);//printing the all in a same line 
+        while (Num <=10){  //you enter the 10 then it will print , with 10 like this ,10
+            System.out.print(Num+",");//printing the all in a same line
             Num +=1;
 
         }

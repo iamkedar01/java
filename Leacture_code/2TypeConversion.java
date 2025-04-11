@@ -2,7 +2,7 @@
     public static void main(String[] args) {
         float myFloat = 5;
         System.out.println("\nBefore type converstion: "+ myFloat); 
-
+        // here i am using the "\n" to move the newline
         int myInt = (int) 5.45f; //float is covrting into a integer by explicit bcz float is grater then integer.
         System.out.println("After type converstion: "+ myInt); 
 

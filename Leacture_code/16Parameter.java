@@ -10,7 +10,7 @@ class Parameter {
         System.out.println("Second Number received: " + Num2);
         return  Num1 + Num2; // it will return the intger type value 
 
-        // Last one line is also enough of to write addition of two number 
-        // printing the what recived from the parameters 
+        /* Last one line is also enough of to write addition of two number
+         printing the what recived from the parameters  */
     }
 }

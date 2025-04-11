@@ -9,13 +9,16 @@ class Return{
         int Number1 =readnumber(); 
         int Number2 = readnumber();
         int  num3 = readnumber();
+        System.out.println();//this make a newline  after takeing the input from the user
 
-        System.out.println(("First number is "+ Number1));
+        System.out.println("First number is "+ Number1);
         System.out.println("Second number is "+Number2);
+        System.out.println("Second number is "+num3);
+
 
     }
-  // Here  using the int type of funcation that will give the return type value 
-  // this below cod ewill help for the reading hte input from the user using the funcation 
+  // Here  using the int type of funcation that will give the return type value is integer
+  // this below code will help for the reading the input from the user using the function
     public static int  readnumber(){
         Scanner input = new Scanner(System.in);
         System.out.print("Enter the a number:");

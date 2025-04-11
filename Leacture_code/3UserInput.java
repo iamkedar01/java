@@ -6,7 +6,7 @@ class UserInput {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter your name: "); 
         String name = input.next(); // the next will take only one string if want insert full sentence "nextLine()"
-        System.out.println("Hi, "+name+" Welcome to the java....!");
+        System.out.println("Hi, "+name+" Welcome to the java....!"); // before the welcome word give the space to clear output
 
 
         // This about the takeing the integer input from the user

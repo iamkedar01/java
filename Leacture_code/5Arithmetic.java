@@ -3,10 +3,11 @@ class Arithmetic {
     public static void main(String[] args) {
         System.out.println("\nWelcome to the Arithmetic opertion\n");
 
+        // here takeing the input from the user
         Scanner input = new Scanner(System.in);
         System.out.print("Enter the First Number: ");
         int FirstNum = input.nextInt();
-        System.out.print("Enter the Second Number: ");
+        System.out.print("Enter the Second Number(this not be zero) : ");
         int SecondNum = input.nextInt();
 
         System.out.println(FirstNum + SecondNum);  // Add the to number  give the sum 

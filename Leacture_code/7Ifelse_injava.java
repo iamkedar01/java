@@ -3,13 +3,14 @@ class Ifelse_injava {
         boolean isMale = true; // value is true means we entering the men Male name 
         String name = "Kedar";
 
-        System.out.println("before if");
+        System.out.println();
         if (isMale) {
+
             System.out.println("Mr." + name);
         } else {
             System.out.println("Ms." + name);
         }
-        System.out.println("\nafter if");
+        System.out.println();
 
         boolean isSeniorCitizen = false; // false means he is not a seniorcitizen 
         boolean isAnAdult = true;  // he is an adult

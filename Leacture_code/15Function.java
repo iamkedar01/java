@@ -1,3 +1,4 @@
+import java.util.*;
 class Function {
     /* 
          The basic rule of the funcation are 
@@ -49,7 +50,7 @@ class Function {
 
 
     public static void greetUser() {
-        System.out.println("Welcomr to the Function In JAVA............!");
+        System.out.println("Welcome to the Functions In JAVA............!");
     }
 
 }

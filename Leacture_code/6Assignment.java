@@ -9,7 +9,7 @@ class Assignment {
         System.out.println(Letter);
 
         String Name = "Kedar"; // Here "Kedar" Assign to the Name variable
-        System.out.println(Name);
+        System.out.println(Name); // always string should be in the double quote
 
     }
     

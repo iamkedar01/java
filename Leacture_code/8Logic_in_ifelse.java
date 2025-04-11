@@ -4,7 +4,7 @@ class Logic_in_ifelse{
     public static void main(String[] args){
 
         Scanner input = new Scanner(System.in);
-        System.out.println("Welcome to Ticket Discount Calculator Based on the 'Age & Gender'");
+        System.out.println("\nWelcome to Ticket Discount Calculator Based on the 'Age & Gender'");
         System.out.print("Please enter your age: ");
         int age = input.nextInt();
         System.out.print("Are you a female? (true/false) ");
