@@ -5,6 +5,7 @@ public class Sum {
     public static void main(String[] args){
 
         Scanner in = new Scanner(System.in);
+        System.out.println("\nAddition of two integer number");
         System.out.print("Enter a First number: ");
         int Num1 = in.nextInt();
         System.out.print("Enter a second number: ");
