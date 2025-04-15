@@ -12,7 +12,7 @@ public class compoundIntrest {
         int t = in.nextInt();
         double compoundIntrest = p *Math.pow((1+r/100) ,t);
         // p= principle
-        // r = rate of intrest
+        // r = rate of int  rest
         // t = time
         System.out.println("The simple intrest is : "+compoundIntrest);
     }
