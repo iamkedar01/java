@@ -1,4 +1,4 @@
-package List;
+package ListInterface;
 
 public class ListMain {
     public static void main(String[] args) {
