@@ -13,6 +13,8 @@ public class Main {
             4) ComplieTimePolymorphism
             5) Runtime Polymorphism
             6)Inheritance
+            7) Enpasulation
+            8) Abstraction
 
          */
 
