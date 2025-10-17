@@ -9,12 +9,13 @@ public class Main {
         /*
             1) Class and object
             2) This keyword
-            3)  Constructor
+            3) Constructor
             4) ComplieTimePolymorphism
             5) Runtime Polymorphism
-            6)Inheritance
+            6) Inheritance
             7) Enpasulation
             8) Abstraction
+            9) Static Keyword
 
          */
 
