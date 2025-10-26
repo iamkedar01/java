@@ -32,6 +32,7 @@ public class ComplieTimePolymorphism {
             Student3 s1 = new Student3();
             s1.info(74);
             s1.info("ram");
+
         }
     }
 
