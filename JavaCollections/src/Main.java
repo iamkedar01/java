@@ -8,6 +8,8 @@ public class Main {
                 1) List Interface
                 2) Set Interface
                 3) Map Interface
+
+                Inside this package we have the sprate Main class in that have the file details
          */
     }
 }
