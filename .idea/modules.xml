@@ -3,8 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.iml" filepath="$PROJECT_DIR$/.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exception_Handling/Exception_Handling.iml" filepath="$PROJECT_DIR$/Exception_Handling/Exception_Handling.iml" />
       <module fileurl="file://$PROJECT_DIR$/JAVA_DSA/JAVA_DSA.iml" filepath="$PROJECT_DIR$/JAVA_DSA/JAVA_DSA.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaCollections/JavaCollections.iml" filepath="$PROJECT_DIR$/JavaCollections/JavaCollections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Multithreding/Multithreding.iml" filepath="$PROJECT_DIR$/Multithreding/Multithreding.iml" />
       <module fileurl="file://$PROJECT_DIR$/OopsConcepts/OopsConcepts.iml" filepath="$PROJECT_DIR$/OopsConcepts/OopsConcepts.iml" />
       <module fileurl="file://$PROJECT_DIR$/Project1/Project1.iml" filepath="$PROJECT_DIR$/Project1/Project1.iml" />
     </modules>
