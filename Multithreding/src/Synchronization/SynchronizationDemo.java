@@ -21,6 +21,7 @@ class ThreadA extends Thread {
         t.printTable(5);
     }
 }
+
 class  ThreadB extends Thread{
     Table t;
     ThreadB(Table t){
@@ -30,6 +31,7 @@ class  ThreadB extends Thread{
         t.printTable(8);
     }
 }
+
 public class SynchronizationDemo {
     public static void main(String[] args) {
         Table t = new Table();
@@ -37,7 +39,8 @@ public class SynchronizationDemo {
         t1.start();
         ThreadB t2 = new ThreadB(t);
         t2.start();
-         // In this example two different class refering the same object so you can observer the output is not proper
+         // In this example two different class refering the same object so you can obserive the output is not proper
     }
 
 }
+// In the above class used the three class and one main class
