@@ -44,3 +44,6 @@ public class SynchronizationDemo {
 
 }
 // In the above class used the three class and one main class
+
+
+
