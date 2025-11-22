@@ -10,6 +10,9 @@ class ThreadSum extends Thread {
         }
     }
 }
+
+
+
 public class InterThreadDemo {
     public static void main(String[] args)throws InterruptedException { // Here we handle the exception
         ThreadSum ts = new ThreadSum();
@@ -18,7 +21,7 @@ public class InterThreadDemo {
             ts.wait();
         }
         System.out.println("Sum is : "+ts.sum);
-        // The CPU will dircltly excecuteing the  this line first and completeing the program to stop this we will use the wait method
+        // The CPU will dirctly excecuteing the this line first and completeing the program to stop this we will use the wait method
         // Note that this wait and notify  method always call inside the synchronized method only otherwise program will raise the illegalException
 
     }
