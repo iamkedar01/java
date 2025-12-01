@@ -6,8 +6,9 @@ public class Main {
         System.out.println("Java Collection Framework...!");
         /*  The Order of the file Details
                 1) List Interface
-                2) Set Interface
-                3) Map Interface
+                2)Genric in collection
+                3)  Set Interface
+                4)  Map Interface
 
                 Inside this package we have the sprate Main class in that have the file details
          */
