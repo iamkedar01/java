@@ -5,10 +5,11 @@ public class Main {
         // here we maintain the file details about the java collection Framework
         System.out.println("Java Collection Framework...!");
         /*  The Order of the file Details
-                1) List Interface
-                2)Genric in collection
+                1)  List Interface
+                2)  Genric in collection
                 3)  Set Interface
                 4)  Map Interface
+                5)  Iterator Demo
 
                 Inside this package we have the sprate Main class in that have the file details
          */
