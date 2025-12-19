@@ -2,11 +2,10 @@ import java.util.Scanner;
 
  class CheckArrayEmpty {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
 
+        Scanner sc = new Scanner(System.in);
         System.out.print("Enter array size: ");
         int n = sc.nextInt();
-
         int[] arr = new int[n];
 
         if (arr.length == 0) {
@@ -15,6 +14,6 @@ import java.util.Scanner;
             System.out.println("The array is not empty.");
         }
 
-        sc.close();
+
     }
 }
