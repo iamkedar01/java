@@ -11,7 +11,7 @@ public class Main {
                 4)  Map Interface
                 5)  Iterator Demo
 
-                Inside this package we have the sprate Main class in that have the file details
+                Inside this package we have the sperate Main class in that have the file details
          */
     }
 }
