@@ -17,5 +17,6 @@ class Pattren{
         System.out.println("    * * *");
         System.out.println("  * * * *");
         System.out.println("* * * * *");
+
     }
 }
