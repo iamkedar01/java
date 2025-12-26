@@ -20,5 +20,6 @@ import java.util.*;
         for (int x : arr) {
             System.out.print(x + " ");
         }
+        sc.close();
     }
 }
