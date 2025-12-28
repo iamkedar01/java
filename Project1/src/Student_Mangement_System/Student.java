@@ -12,6 +12,9 @@ public class Student {
     private int feesPaid;
     private int feesTotal;
 
+
+
+
     /**  To get like this enter the /**
      * Details about the student
      *Fees for every student is 50000
